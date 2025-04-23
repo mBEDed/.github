@@ -4,7 +4,7 @@
 
 </div>
 
-A one-stop shop for electronics R&D, firmware, and product development, **mBEDed µSystems** has been innovating circuits and gadgets since 2016. We’ve delivered over **250+** projects across **6+** industries, delighting **30+** clients worldwide.
+A one-stop shop for electronics R&D, firmware, and product development, **mBEDed µSystems** has been innovating circuits and gadgets since 2016. We’ve deliver worldwide.
 
 ## 🚀 What We Do
 - **Hardware R&D:** From IoT devices to single-board computers, every PCB and prototype is built to impress.  
@@ -13,7 +13,7 @@ A one-stop shop for electronics R&D, firmware, and product development, **mBEDed
 - **Electronics Components (Coming Soon):** Wholesale & retail of high-quality parts.
 
 ## 💡 Our Mission
-We’re dedicated to developing advanced solutions for everyday problems—making gadgets from cellphones to coffee machines more efficient, smart, and capable. With cross-domain expertise, we integrate seamlessly into your processes to accelerate product launches without surprises :contentReference[oaicite:7]{index=7}.
+We’re dedicated to developing advanced solutions for everyday problems—making gadgets from cellphones to coffee machines more efficient, smart, and capable. With cross-domain expertise, we integrate seamlessly into your processes to accelerate product launches without surprises.
 
 ## 📈 By the Numbers
 - **250+** Projects Delivered  
