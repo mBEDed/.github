@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://mbeded.systems/assets/logo.png" alt="mBEDed µSystems Logo" width="200">
+  [![](https://mbeded.systems/assets/logo.png)](https://mbeded.systems)
 </p>
 
-A one-stop shop for electronics R&D, firmware, and product development, **mBEDed µSystems** has been innovating circuits and gadgets since 2016. We’ve delivered over **250+** projects across **6+** industries, delighting **30+** clients worldwide :contentReference[oaicite:1]{index=1}.
+A one-stop shop for electronics R&D, firmware, and product development, **mBEDed µSystems** has been innovating circuits and gadgets since 2016. We’ve delivered over **250+** projects across **6+** industries, delighting **30+** clients worldwide.
 
 ## 🚀 What We Do
 - **Hardware R&D:** From IoT devices to single-board computers, every PCB and prototype is built to impress.  
