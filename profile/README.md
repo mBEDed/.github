@@ -1,6 +1,8 @@
-<p align="center">
-  [![]([https://mbeded.systems/assets/logo.png)](https://mbeded.systems)
-</p>
+<div style="text-align: center;">
+
+![alt text](https://mbeded.systems/assets/logo.png "mBEDed μSystems")
+
+</div>
 
 A one-stop shop for electronics R&D, firmware, and product development, **mBEDed µSystems** has been innovating circuits and gadgets since 2016. We’ve delivered over **250+** projects across **6+** industries, delighting **30+** clients worldwide.
 
