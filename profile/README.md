@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-![alt text](https://mbeded.systems/assets/logo.png "mBEDed μSystems")
+![mBEDed μSystems](https://mbeded.systems/assets/img/logo.svg "mBEDed μSystems")
 
 </div>
 
