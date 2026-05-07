@@ -4,32 +4,44 @@
 
 </div>
 
-A one-stop shop for electronics R&D, firmware, and product development, **mBEDed µSystems** has been innovating circuits and gadgets since 2016. We’ve deliver worldwide.
-
-## 🚀 What We Do
-- **Hardware R&D:** From IoT devices to single-board computers, every PCB and prototype is built to impress.  
-- **Embedded Software:** Innovative firmware solutions with all leading microcontrollers  {index=3}.  
-- **Product Development:** Comprehensive ESDM services—design, prototyping, testing, and scaling.  
-- **Electronics Components (Coming Soon):** Wholesale & retail of high-quality parts.
-
-## 💡 Our Mission
-We’re dedicated to developing advanced solutions for everyday problems—making gadgets from cellphones to coffee machines more efficient, smart, and capable. With cross-domain expertise, we integrate seamlessly into your processes to accelerate product launches without surprises.
-
-## 📈 By the Numbers
-- **250+** Projects Delivered  
-- **6+** Industries Served
-- **30+** Happy Customers
-- **Since 2016**—where vision met necessity
-
-## 🤝 Why Choose Us
-- **Client Satisfaction:** Quality, customization, and clear communication every step of the way.  
-- **Smooth Operations:** Speed, reliability, scalability, and transparency are built into our workflow.  
-- **Security & Value:** Rigorous security practices combined with value-added services for lasting partnerships.
-
-## 📬 Get in Touch
-- **Web:** [mBEDed μSystems](https://mbeded.Systems)  
-- **Email:** [info@mbeded.systems](mailto:info@mbeded.systems)
+**Full-stack ESDM partner — Electronics R&D, PCB Design, Firmware & IoT — since 2016.**
+Based in Chandigarh, India. Delivering worldwide.
 
 ---
+
+### What We Do
+
+- 🔬 **Electronic R&D** — Research, feasibility, and design across industrial, consumer, automotive, medical, robotics, and defence applications.
+- 📐 **Schematic & PCB Design** — Circuit design with signal integrity focus; single-layer to high-density multilayer, blind via, and flexible PCBs with full EMI/EMC consideration.
+- 🏭 **PCB Manufacturing & Assembly** — From bare board to fully assembled, soldered, and tested hardware.
+- 📦 **BOM Sourcing** — Component sourcing optimised for cost, quality, and availability.
+- 💾 **Firmware & Embedded Software** — Bare-metal and RTOS development across AVR, ARM, MSP, CC, CY, and mbed architectures.
+- 🖥️ **Software Development** — Companion apps and connectivity software using .NET, Java, Kotlin, PHP, and more.
+- 📡 **IoT Development** — End-to-end IoT: smart devices, gateways, edge compute, cloud integration, and remote monitoring.
+
+---
+
+### By the Numbers
+
+`10+ Years` &nbsp;·&nbsp; `250+ Projects` &nbsp;·&nbsp; `9+ Industries` &nbsp;·&nbsp; `50+ Clients`
+
+---
+
+### Industries Served
+
+Consumer Electronics · Industrial & Power Electronics · IoT & Smart Devices · Automotive · Robotics & Drones · Medical & Wearables · Telecom & Networking · Security & Defence · Energy & Renewables
+
+---
+
+### Why Work With Us?
+
+We're a one-stop shop — concept through production. Free consultation on every engagement, rapid prototyping to keep schedules honest, and a supply chain built for reliability. We plug into your process, not the other way around.
+
+---
+
+📍 Chandigarh (UT), India
+📞 [+91 172 526 1816](tel:+911725261816)
+📬 [mbeded.systems](https://mbeded.systems) · [info@mBEDed.Systems](mailto:info@mBEDed.Systems)
+💬 [WhatsApp](https://wa.me/917009701629) · [LinkedIn](https://in.linkedin.com/company/mbededsystems) · [YouTube](https://www.youtube.com/@mbededsystems) · [X](https://x.com/mbededsystems)
 
 *Crafted with ⚡️ and 🤖 by the mBEDed µSystems team.*  
