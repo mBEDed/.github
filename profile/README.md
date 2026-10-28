@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-![mBEDed μSystems](https://mbeded.systems/assets/img/logo.svg "mBEDed μSystems")
+![mBEDed Systems](https://mbeded.systems/assets/img/logo.svg "mBEDed Systems")
 
 </div>
 
@@ -44,4 +44,4 @@ We're a one-stop shop — concept through production. Free consultation on every
 📬 [mbeded.systems](https://mbeded.systems) · [info@mBEDed.Systems](mailto:info@mBEDed.Systems)
 💬 [WhatsApp](https://wa.me/917009701629) · [LinkedIn](https://in.linkedin.com/company/mbededsystems) · [YouTube](https://www.youtube.com/@mbededsystems) · [X](https://x.com/mbededsystems)
 
-*Crafted with ⚡️ and 🤖 by the mBEDed µSystems team.*  
+*Crafted with ⚡️ and 🤖 by the mBEDed Systems team.*  
